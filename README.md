@@ -175,7 +175,9 @@ This project demonstrates how SQL can be used to:
 
 ---
 
+
 ## 👨‍💻 Author
-Harold T. Alcabasa  
+**Harold Alcabasa**  
 SQL Data Analytics Portfolio Project (2026)  
-[LinkedIn](#) | [GitHub](#)
+[GitHub](https://github.com/alcabasaharold) | [LinkedIn](https://www.linkedin.com/in/harold-alcabasa-16b095227/)
+
