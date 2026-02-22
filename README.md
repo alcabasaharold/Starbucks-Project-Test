@@ -1,3 +1,7 @@
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![SQL](https://img.shields.io/badge/Language-SQL-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
 # ☕ Starbucks Sales & Expansion Strategy Analysis (SQL Project)
 
 ## 📌 Project Summary
