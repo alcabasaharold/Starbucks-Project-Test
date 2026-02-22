@@ -1,0 +1,16 @@
+store_id,store_name,city,population,avg_rent,store_rank
+1,Starbucks Makati Central,Makati,633000,3500,1
+2,Starbucks BGC,Taguig,85000,4000,2
+3,Starbucks Quezon Ave,Quezon City,2900000,3000,3
+4,Starbucks Cebu IT Park,Cebu City,922000,3200,4
+5,Starbucks Davao City Center,Davao City,680000,2800,5
+6,Starbucks Manila Bay,Manila,1780000,3100,6
+7,Starbucks Ortigas,Pasig,803000,3300,7
+8,Starbucks Iloilo City Center,Iloilo,450000,2700,8
+9,Starbucks Bacolod Downtown,Bacolod,560000,2800,9
+10,Starbucks Baguio Session Rd,Baguio,345000,2500,10
+11,Starbucks Pampanga SM Clark,Angeles City,400000,2700,11
+12,Starbucks Cebu SM Seaside,Cebu City,922000,3000,12
+13,Starbucks Davao Abreeza,Davao City,680000,2900,13
+14,Starbucks Tagbilaran,Tagbilaran,100000,2400,14
+15,Starbucks Cagayan de Oro,Cagayan de Oro,675000,2800,15

@@ -1,0 +1,151 @@
+customer_id,customer_name,city,signup_date
+1,Matthew Watson,Angeles City,2/1/2026
+2,Jack Carpenter,Iloilo,9/13/2023
+3,Tara Richards,Bacolod,3/17/2025
+4,Cassandra Farrell,Baguio,11/17/2023
+5,Darren Harrison,Pasig,12/15/2024
+6,Charles Simon,Cebu City,8/13/2023
+7,Ralph Williamson,Cebu City,12/25/2024
+8,Andrea Taylor,Taguig,10/6/2023
+9,Craig Estrada,Bacolod,1/4/2026
+10,Danielle Fuller,Taguig,4/26/2025
+11,Peter Banks,Davao City,10/6/2023
+12,Tiffany Blair,Bacolod,12/22/2024
+13,Sharon Hall,Iloilo,3/15/2024
+14,Debra Gray,Baguio,10/13/2024
+15,Troy Chen,Bacolod,2/20/2023
+16,Kelly Horton,Tagbilaran,12/14/2024
+17,Amanda Williams,Angeles City,5/28/2024
+18,Michael George,Makati,11/11/2024
+19,Michelle Guerra,Davao City,10/29/2023
+20,Bridget Carey,Quezon City,8/14/2025
+21,Andrew Williams,Quezon City,1/29/2024
+22,Patrick Foster,Cagayan de Oro,7/15/2023
+23,Charles Maldonado,Pasig,12/31/2024
+24,Leslie Hill,Tagbilaran,11/18/2025
+25,Frank Gross,Pasig,12/19/2025
+26,Shelly Gonzalez,Cebu City,12/1/2024
+27,Antonio Rodriguez,Makati,6/2/2023
+28,Denise Ray,Iloilo,5/10/2023
+29,Richard Adams,Quezon City,10/24/2025
+30,Ethan Orozco,Baguio,1/24/2026
+31,William Martin,Taguig,2/16/2025
+32,Tracy Hester,Davao City,10/10/2025
+33,Heather Johnson,Makati,5/18/2023
+34,Robert Doyle,Davao City,7/10/2024
+35,David Snyder,Bacolod,8/5/2024
+36,Nichole Molina,Cebu City,1/7/2026
+37,Jennifer Romero,Taguig,4/7/2023
+38,Tina Martin,Bacolod,1/18/2024
+39,Briana Valenzuela,Iloilo,7/5/2024
+40,Mark Whitney,Cebu City,10/15/2023
+41,Henry West,Cebu City,11/26/2025
+42,John Harris,Taguig,8/3/2023
+43,Sharon Hayes,Baguio,3/6/2023
+44,Regina Martinez,Makati,12/30/2025
+45,Deborah Hudson,Angeles City,9/7/2023
+46,Bianca Caldwell,Tagbilaran,6/29/2023
+47,Brittany Watts,Cebu City,5/26/2023
+48,Allen Daniel,Makati,7/6/2023
+49,Robert Frost,Baguio,10/2/2024
+50,Emily Alvarez,Pasig,11/15/2025
+51,Ronald Hawkins,Quezon City,7/14/2024
+52,Erin Cordova,Bacolod,7/6/2025
+53,Joseph Flores,Davao City,9/17/2025
+54,Ashley Massey,Pasig,10/31/2025
+55,Logan Sanders,Bacolod,1/26/2024
+56,John Burns,Angeles City,7/11/2025
+57,Vanessa Mueller,Bacolod,3/24/2023
+58,Amber Gallagher,Davao City,10/25/2023
+59,Lisa Schneider,Quezon City,10/23/2023
+60,Donna Schmidt,Quezon City,7/31/2024
+61,Jason Munoz,Bacolod,9/23/2025
+62,Keith Stevenson,Manila,11/5/2025
+63,Shannon Ho,Manila,12/8/2023
+64,Kurt Davis,Angeles City,12/29/2025
+65,Antonio Camacho,Davao City,5/24/2024
+66,Jonathan Peterson,Bacolod,10/14/2025
+67,Laura Jacobson,Taguig,10/1/2023
+68,Mrs. Marissa Rodriguez,Quezon City,4/3/2023
+69,Brian Johnson,Bacolod,6/17/2025
+70,Julie Castro,Makati,4/28/2023
+71,Jason Baker,Cebu City,7/31/2025
+72,Shelly Hendricks,Iloilo,6/21/2023
+73,Allison Martinez,Tagbilaran,10/16/2023
+74,Belinda Parker,Davao City,7/5/2023
+75,Brandon Pennington,Taguig,1/14/2024
+76,James Hall,Cebu City,6/7/2024
+77,Traci Taylor,Cagayan de Oro,12/19/2024
+78,Elizabeth Jenkins,Tagbilaran,3/23/2025
+79,Michelle Smith,Tagbilaran,8/8/2023
+80,Richard Collins,Cagayan de Oro,5/11/2025
+81,Patrick Murillo,Cagayan de Oro,2/4/2026
+82,Karen Jones,Quezon City,11/27/2025
+83,Cynthia Harvey,Taguig,8/30/2025
+84,Tammy Bowers,Davao City,6/4/2023
+85,Zachary Todd,Taguig,1/7/2024
+86,Brandon Allison,Quezon City,3/29/2023
+87,Steven Sanders,Manila,9/19/2025
+88,Nancy Orozco,Tagbilaran,2/24/2025
+89,Heather Soto,Manila,12/21/2025
+90,Thomas Johnson,Pasig,12/26/2025
+91,Daniel Martin,Baguio,6/14/2023
+92,Rachel Jones,Manila,12/20/2023
+93,Crystal Turner,Quezon City,12/27/2023
+94,Megan Black,Iloilo,5/11/2025
+95,Stephanie Collins,Bacolod,10/29/2024
+96,Kevin Haynes,Angeles City,11/21/2025
+97,Tina Hicks,Tagbilaran,12/7/2023
+98,Eric Wong,Quezon City,4/10/2024
+99,Patrick Ryan,Manila,7/10/2023
+100,Andrew Little,Taguig,8/6/2023
+101,Laura Jones,Davao City,4/14/2023
+102,Daniel Jones,Taguig,8/27/2023
+103,Daniel Pope,Pasig,11/7/2024
+104,Michael Harrison,Cagayan de Oro,8/15/2025
+105,Erika Brown,Tagbilaran,1/20/2024
+106,Charles Kent,Manila,10/6/2025
+107,Jessica Stokes,Manila,6/22/2024
+108,Paul Flynn,Taguig,11/2/2023
+109,Dawn Shaw,Quezon City,3/13/2025
+110,Cindy Ellis,Makati,11/22/2024
+111,Lynn Bell,Tagbilaran,9/9/2024
+112,Miguel Johnson,Pasig,2/18/2026
+113,Russell Wilson,Bacolod,3/25/2025
+114,Lisa Miller,Pasig,7/1/2025
+115,Edward Sexton,Davao City,7/15/2024
+116,Robin Kelley,Cebu City,5/1/2025
+117,Jeffrey Lewis,Iloilo,10/13/2025
+118,Carmen Lewis,Cagayan de Oro,9/28/2023
+119,Stephanie Mendoza,Manila,4/22/2025
+120,Mr. Jack Munoz,Cagayan de Oro,9/11/2023
+121,Miguel Jones,Taguig,2/7/2026
+122,John Sampson,Tagbilaran,5/8/2023
+123,Carla Calhoun,Tagbilaran,6/12/2023
+124,Julie Roth,Quezon City,10/27/2025
+125,Gary Hernandez,Pasig,1/1/2026
+126,Kayla Burns,Iloilo,9/2/2023
+127,Larry Stewart,Makati,9/6/2023
+128,Cameron Franklin,Bacolod,1/18/2024
+129,John Shah,Makati,10/4/2023
+130,Heather Hill,Tagbilaran,4/10/2023
+131,Ashley Calderon,Taguig,2/18/2024
+132,Mr. Thomas Reed,Makati,6/3/2023
+133,Robert Ward,Taguig,11/16/2024
+134,Ryan Miller,Cagayan de Oro,10/25/2025
+135,Brandon Moss,Cagayan de Oro,8/22/2023
+136,Jill Smith,Davao City,5/24/2025
+137,Heather Valencia,Manila,12/10/2024
+138,Karen Thompson,Bacolod,10/2/2023
+139,Kelli Mcdonald,Makati,10/17/2023
+140,Anthony Butler,Taguig,10/5/2023
+141,Heather Strickland,Iloilo,7/23/2025
+142,Jessica Henderson,Cebu City,10/22/2024
+143,Chad Ramos,Davao City,5/7/2025
+144,Kelly Barron,Davao City,11/22/2023
+145,Casey Hardin,Iloilo,1/4/2025
+146,Juan Dixon DVM,Makati,3/19/2024
+147,Kathleen Curtis,Iloilo,1/2/2026
+148,Kenneth Arias,Bacolod,2/1/2026
+149,Robert Anderson,Pasig,9/17/2025
+150,Benjamin Burke,Pasig,11/1/2024
