@@ -193,3 +193,7 @@ This project demonstrates how SQL can be used to:
 SQL Data Analytics Portfolio Project (2026)  
 [GitHub](https://github.com/alcabasaharold) | [LinkedIn](https://www.linkedin.com/in/harold-alcabasa-16b095227/)
 
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
