@@ -44,12 +44,15 @@ The project uses a relational database with 4 tables:
 ---
 
 ## 📂 Sample Data
-This project uses **synthetic datasets** generated for demonstration purposes.  
+This project includes **synthetic datasets** (AI‑generated for demonstration purposes).  
 They do not represent real Starbucks data.  
-- stores.csv
-- products.csv
-- customers.csv
-- sales.csv
+
+Datasets are included in this repository and can be accessed directly here:
+- [stores.csv](stores.csv)
+- [products.csv](products.csv)
+- [customers.csv](customers.csv)
+- [sales.csv](sales.csv)
+
 
 ---
 ## 📊 Key Business Questions Solved
