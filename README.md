@@ -43,6 +43,13 @@ The project uses a relational database with 4 tables:
 
 ---
 
+## 🌐 Entity Relationship Diagram (ERD)
+
+![Starbucks ERD](ERD.png)
+
+---
+
+
 ## 📂 Sample Data
 This project includes **synthetic datasets** (AI‑generated for demonstration purposes).  
 They do not represent real Starbucks data.  
