@@ -169,7 +169,6 @@ This project demonstrates how SQL can be used to:
 * Profit margin calculation
 * Customer segmentation (new vs repeat buyers)
 * Time-series forecasting
-* Dashboard integration (Power BI / Tableau)
 * Cohort analysis
 * Store-level profitability analysis
 
