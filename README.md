@@ -175,6 +175,23 @@ This project demonstrates how SQL can be used to:
 
 ---
 
+## 📊 Dashboard Integration (Power BI)
+
+To complement the SQL analysis, I designed a Power BI dashboard that visualizes key insights:
+
+- **KPIs**: Total Sales, Quantity, Average Rating, Best Expansion Score
+- **Sales Trend Over Time**: Line chart showing seasonal peaks
+- **Top Performing Stores**: Bar chart ranking stores by revenue
+- **Expansion Score by City**: Weighted scoring model highlighting Cebu City as the top candidate
+- **City Metrics Table**: Detailed breakdown of sales, customers, rent, and expansion score
+- **Product Mix Contribution**: Pie chart showing category distribution
+
+![Starbucks Expansion Dashboard](dashboard.png)
+
+This dashboard bridges backend SQL logic with frontend storytelling, making the analysis more accessible for business stakeholders.
+
+---
+
 ## 📂 Getting Started
 1. Install PostgreSQL.  
 2. Run the schema creation script to set up tables.  
