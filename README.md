@@ -187,7 +187,7 @@ To complement the SQL analysis, I designed a Power BI dashboard that visualizes 
 
 ![Starbucks Expansion Dashboard](ExpansionDashboard.png)
 
-This dashboard bridges backend SQL logic with frontend storytelling, making the analysis more accessible for business stakeholders.
+This dashboard bridges backend SQL logic with frontend storytelling, highlighting KPIs, sales trends, and expansion scoring. Cebu City emerges as the top expansion candidate.
 
 ---
 
