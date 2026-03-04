@@ -15,6 +15,7 @@ The objective is to simulate a real-world business scenario where Starbucks want
 * Compare revenue against rent costs
 * Estimate city-level coffee market potential (based on a 25% assumption of coffee drinkers per city)
 * Identify the best cities for expansion
+* This project includes both SQL analysis and a Power BI dashboard for visual storytelling.
 
 All analysis is performed using advanced SQL queries in PostgreSQL.
 
